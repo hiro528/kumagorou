@@ -1,0 +1,60 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+header {
+    background: white;
+    text-align: center;
+    padding: 30px;
+}
+#hero img {
+    width: 100%;
+}
+#about {
+    background: white;
+    text-align: center;
+    padding: 100px;
+}
+#about h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+#today {
+    text-align: center;
+    padding: 100px 0;
+    background-color: #ECFAEA; 
+    
+}
+#today h2 {
+    font-size: 36px;
+    margin-bottom: 60px;
+}#today img {
+    width: 750px;
+}
+aside {
+    background: white;
+    text-align: center;
+    padding: 100px 0;
+}
+aside h2 {
+    font-size: 36px;
+    margin-bottom: 60px;
+}
+aside div {
+    background: #f4f0c3;
+    padding: 50px 0;
+    margin-top: 30px; 
+}
+aside h3 {
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+aside img {
+    width: 718px;
+}
+footer {
+    background: #3f8058;
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
